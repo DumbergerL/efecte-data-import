@@ -9,6 +9,10 @@ Simply install php on your PC an run the script by calling
 > php CONVERT [import.csv] [export.xml]
 ```
 
+## Example Files
+
+* `example/entityset-location.xml` is a exported xml file from efecte
+
 ## Author
 
 **Lukas Dumberger**
