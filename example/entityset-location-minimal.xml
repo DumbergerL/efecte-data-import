@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<entityset>
+    <entity>
+        <template code="location"/>
+        <attribute code="location_name">
+            <value>Landratsamt Heidenheimer</value>
+        </attribute>
+        <attribute code="street_address">
+            <value>Bergstraße 2</value>
+        </attribute>
+        <attribute code="postal_code">
+            <value>89518</value>
+        </attribute>
+        <attribute code="city">
+            <value>Heidenheim</value>
+        </attribute>
+        <attribute code="country">
+            <value>Germany</value>
+        </attribute>
+        <attribute code="creator">
+            <value>Test User</value>
+        </attribute>
+        <attribute code="latest_update_by">
+            <value>Test User</value>
+        </attribute>
+    </entity>
+    <entity>
+        <template code="location"/>
+        <attribute code="location_name">
+            <value>Schloss Hellensteiner</value>
+        </attribute>
+        <attribute code="street_address">
+            <value>Schlossstraße 21</value>
+        </attribute>
+        <attribute code="postal_code">
+            <value>89522</value>
+        </attribute>
+        <attribute code="city">
+            <value>Heidenheim</value>
+        </attribute>
+        <attribute code="country">
+            <value>Germany</value>
+        </attribute>
+        <attribute code="efecte_id">
+            <value>LOC-000049</value>
+        </attribute>
+        <attribute code="created">
+            <value>02.07.2019 19:01</value>
+        </attribute>
+        <attribute code="updated">
+            <value>02.07.2019 19:01</value>
+        </attribute>
+        <attribute code="creator">
+            <value>Test User</value>
+        </attribute>
+        <attribute code="latest_update_by">
+            <value>Test User</value>
+        </attribute>
+    </entity>
+</entityset>
