@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<entityset>
+    <entity id="508857" name="Landratsamt Heidenheimer">
+        <template id="92161" name="Location" code="location"/>
+        <group code="locations"/>
+        <attribute id="92168" name="Location name" code="location_name">
+            <value>Landratsamt Heidenheimer</value>
+        </attribute>
+        <attribute id="91886" name="Street address" code="street_address">
+            <value>Bergstraße 2</value>
+        </attribute>
+        <attribute id="91888" name="Postal code" code="postal_code">
+            <value>89518</value>
+        </attribute>
+        <attribute id="91890" name="City" code="city">
+            <value>Heidenheim</value>
+        </attribute>
+        <attribute id="91905" name="Country" code="country">
+            <value>Germany</value>
+        </attribute>
+        <attribute id="89205" name="Efecte ID" code="efecte_id">
+            <value>LOC-000050</value>
+        </attribute>
+        <attribute id="89207" name="Created" code="created">
+            <value>02.07.2019 19:01</value>
+        </attribute>
+        <attribute id="89209" name="Updated" code="updated">
+            <value>02.07.2019 19:01</value>
+        </attribute>
+        <attribute id="89211" name="Creator" code="creator">
+            <value>Test User</value>
+        </attribute>
+        <attribute id="89213" name="Latest update by" code="latest_update_by">
+            <value>Test User</value>
+        </attribute>
+    </entity>
+    <entity id="508845" name="Schloss Hellensteiner">
+        <template id="92161" name="Location" code="location"/>
+        <group code="locations"/>
+        <attribute id="92168" name="Location name" code="location_name">
+            <value>Schloss Hellensteiner</value>
+        </attribute>
+        <attribute id="91886" name="Street address" code="street_address">
+            <value>Schlossstraße 21</value>
+        </attribute>
+        <attribute id="91888" name="Postal code" code="postal_code">
+            <value>89522</value>
+        </attribute>
+        <attribute id="91890" name="City" code="city">
+            <value>Heidenheim</value>
+        </attribute>
+        <attribute id="91905" name="Country" code="country">
+            <value>Germany</value>
+        </attribute>
+        <attribute id="89205" name="Efecte ID" code="efecte_id">
+            <value>LOC-000049</value>
+        </attribute>
+        <attribute id="89207" name="Created" code="created">
+            <value>02.07.2019 19:01</value>
+        </attribute>
+        <attribute id="89209" name="Updated" code="updated">
+            <value>02.07.2019 19:01</value>
+        </attribute>
+        <attribute id="89211" name="Creator" code="creator">
+            <value>Test User</value>
+        </attribute>
+        <attribute id="89213" name="Latest update by" code="latest_update_by">
+            <value>Test User</value>
+        </attribute>
+    </entity>
+</entityset>

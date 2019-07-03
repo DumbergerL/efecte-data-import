@@ -6,8 +6,15 @@ Efecte Data Import is a script to format simple Excel (csv) Files to valid xml-i
 
 Simply install php on your PC an run the script by calling
 ```bash
-> php CONVERT [import.csv] [export.xml]
+> php CONVERT [location.csv] [export.xml]
 ```
+
+The file name of the .csv need to match to the efecte template code (e.q. location, asset, ...)
+
+## Example Files
+
+* `example/entityset-location.xml` is a exported xml file from efecte
+* `example/entityset-location-minimal.xml` is the minimal set of attributes and elements required for efecte import
 
 ## Author
 
