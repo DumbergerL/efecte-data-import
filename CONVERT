@@ -8,3 +8,5 @@ $outputFilename = isset($argv[2]) ? $argv[2] : 'import.xml';
 $converter = new CSV2XML($inputFilename, $outputFilename);
 
 $converter->parseCSV();
+
+$converter->export();
