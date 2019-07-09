@@ -1,6 +1,6 @@
 # Efecte-Data-Import
 
-Efecte Data Import is a script to format simple Excel (csv) Files to valid xml-imports for [efecte](https://www.efecte.com/de/). The script is written in php an you can change it as you need it.
+Efecte (https://www.efecte.com/) Data Import is a script to format simple Excel (csv) Files to valid xml-imports for [efecte](https://www.efecte.com/de/). The script is written in php an you can change it as you need it.
 
 ## Installation
 
